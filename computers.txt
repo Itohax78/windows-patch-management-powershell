@@ -1,0 +1,7 @@
+# Inventaire du parc - format : NOM;ADRESSE_IP
+# Les lignes vides et les lignes commençant par # sont ignorées.
+# Adapter les adresses IP à votre environnement de test (voir docs/GUIDE-INSTALLATION.md).
+PC01;192.168.10.11
+PC02;192.168.10.12
+PC03;192.168.10.13
+PC04;192.168.10.14

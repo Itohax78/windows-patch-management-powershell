@@ -1,0 +1,20 @@
+Objet : [PATCH MANAGEMENT] Anomalies détectées
+
+Date du contrôle : 12/10/2026 07:55
+
+Postes contrôlés            : 4
+Postes non conformes        : 1
+Postes inaccessibles        : 1
+
+PC03 (192.168.10.13) : NON CONFORME
+       KB5063878 manquante
+
+PC04 (192.168.10.14) : INACCESSIBLE
+       WinRM inaccessible (port 5985 fermé ou filtré)
+
+ATTENTION - régression depuis l'audit 20261001-090000 :
+       PC03 : CONFORME -> NON CONFORME
+
+Le rapport complet est joint à ce message.
+-- 
+Message automatique PatchManager - poste PC-ADMIN

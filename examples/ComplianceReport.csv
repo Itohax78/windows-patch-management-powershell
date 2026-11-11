@@ -1,0 +1,5 @@
+"Poste";"AdresseIP";"KBRequises";"KBManquantes";"ListeKBManquantes";"KBPresentes";"Etat";"Motif";"DateControle"
+"PC01";"192.168.10.11";"2";"0";"";"KB5063878, KB5062553";"CONFORME";"Tous les correctifs requis sont installés";"12/10/2026 07:55:40"
+"PC02";"192.168.10.12";"1";"0";"";"KB5034441";"CONFORME";"Tous les correctifs requis sont installés";"12/10/2026 07:55:40"
+"PC03";"192.168.10.13";"2";"1";"KB5063878";"KB5062553";"NON CONFORME";"1 correctif(s) obligatoire(s) manquant(s)";"12/10/2026 07:55:40"
+"PC04";"192.168.10.14";"3";"—";"";"";"INACCESSIBLE";"WinRM inaccessible (port 5985 fermé ou filtré)";"12/10/2026 07:55:40"

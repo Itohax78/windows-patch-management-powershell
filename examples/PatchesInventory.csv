@@ -1,0 +1,8 @@
+"Poste";"AdresseIP";"KB";"Description";"DateInstallation";"InstallePar";"Source"
+"PC01";"192.168.10.11";"KB5054156";"Security Update";"04/09/2026 00:00:00";"NT AUTHORITY\SYSTEM";"Get-HotFix"
+"PC01";"192.168.10.11";"KB5063878";"Security Update";"03/09/2026 00:00:00";"NT AUTHORITY\SYSTEM";"Get-HotFix"
+"PC01";"192.168.10.11";"KB5062553";"Security Update";"02/09/2026 00:00:00";"NT AUTHORITY\SYSTEM";"Get-HotFix"
+"PC02";"192.168.10.12";"KB5048161";"Security Update";"03/09/2026 00:00:00";"NT AUTHORITY\SYSTEM";"Get-HotFix"
+"PC02";"192.168.10.12";"KB5034441";"Security Update";"02/09/2026 00:00:00";"NT AUTHORITY\SYSTEM";"Get-HotFix"
+"PC03";"192.168.10.13";"KB5054156";"Security Update";"03/09/2026 00:00:00";"NT AUTHORITY\SYSTEM";"Get-HotFix"
+"PC03";"192.168.10.13";"KB5062553";"Security Update";"02/09/2026 00:00:00";"NT AUTHORITY\SYSTEM";"Get-HotFix"

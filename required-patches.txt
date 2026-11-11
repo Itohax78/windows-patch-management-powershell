@@ -1,0 +1,19 @@
+# Politique minimale de mise à jour - correctifs de sécurité obligatoires
+# Format : KB;Description;Cible (optionnelle)
+#   - KB          : identifiant du correctif (KB suivi de 6 à 8 chiffres)
+#   - Description : texte libre (affiché dans les rapports)
+#   - Cible       : motif (jokers * acceptés) comparé à "<Windows> <Build>" du poste,
+#                   par exemple "Microsoft Windows 11 Professionnel 26100".
+#                   Le correctif n'est exigé que sur les postes correspondants.
+#                   Vide ou * = tous les postes.
+# Les lignes vides et les lignes commençant par # sont ignorées.
+#
+# IMPORTANT : cette liste doit être révisée à chaque Patch Tuesday (2e mardi du mois)
+# et après chaque bulletin de sécurité hors cycle (voir docs/RAPPORT.md, partie 4).
+# Source officielle : https://msrc.microsoft.com/update-guide
+#
+# Les lignes ci-dessous sont des EXEMPLES : remplacez-les par les KB réellement publiés
+# pour les versions de Windows de votre parc (procédure : docs/GUIDE-INSTALLATION.md, étape 6).
+KB5034441;Mise à jour de sécurité WinRE - CVE-2024-20666 (contournement BitLocker);*Windows 10*
+KB5063878;Mise à jour cumulative de sécurité Windows 11 24H2;*Windows 11*
+KB5062553;Mise à jour cumulative de sécurité Windows 11 24H2;*Windows 11*

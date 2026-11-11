@@ -1,0 +1,5 @@
+"Poste";"AdresseIP";"Accessibilite";"Windows";"Build";"DernierDemarrage";"WindowsUpdate";"KBRequises";"KBManquantes";"ListeKBManquantes";"Conformite";"DateControle";"Erreur"
+"PC01";"192.168.10.11";"Accessible";"Microsoft Windows 11 Professionnel 24H2";"26100.4652";"10/10/2026 07:55:40";"Running";"2";"0";"";"CONFORME";"12/10/2026 07:55:40";""
+"PC02";"192.168.10.12";"Accessible";"Microsoft Windows 10 Professionnel 22H2";"19045.6093";"10/10/2026 07:55:40";"Stopped";"1";"0";"";"CONFORME";"12/10/2026 07:55:40";""
+"PC03";"192.168.10.13";"Accessible";"Microsoft Windows 11 Professionnel 24H2";"26100.4652";"10/10/2026 07:55:40";"Running";"2";"1";"KB5063878";"NON CONFORME";"12/10/2026 07:55:40";""
+"PC04";"192.168.10.14";"Inaccessible";;;;;"3";"—";"";"INACCESSIBLE";"12/10/2026 07:55:40";"WinRM inaccessible (port 5985 fermé ou filtré)"

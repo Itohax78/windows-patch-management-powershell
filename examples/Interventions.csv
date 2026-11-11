@@ -1,0 +1,3 @@
+"Poste";"AdresseIP";"Conformite";"ListeKBManquantes";"Motif";"ActionRecommandee"
+"PC03";"192.168.10.13";"NON CONFORME";"KB5063878";"1 correctif(s) manquant(s)";"Installer : KB5063878"
+"PC04";"192.168.10.14";"INACCESSIBLE";"";"WinRM inaccessible (port 5985 fermé ou filtré)";"Vérifier que le poste est allumé, connecté, et que WinRM / le pare-feu autorisent le poste d'administration"

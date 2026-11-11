@@ -1,0 +1,11 @@
+﻿12/10/2026 07:55:40 ; Début de l'audit
+12/10/2026 07:55:40 ; PC01 ; Accessible
+12/10/2026 07:55:40 ; PC02 ; Accessible
+12/10/2026 07:55:40 ; PC03 ; Accessible
+12/10/2026 07:55:40 ; PC04 ; WinRM inaccessible
+12/10/2026 07:55:40 ; PC01 ; Conforme
+12/10/2026 07:55:40 ; PC02 ; Conforme
+12/10/2026 07:55:40 ; PC03 ; Non conforme ; KB5063878
+12/10/2026 07:55:41 ; Rapport généré
+12/10/2026 07:55:41 ; Notification enregistrée dans examples/Notification.txt (méthode File, destinataire prévu : admin@entreprise.local)
+12/10/2026 07:55:41 ; Fin de l'audit

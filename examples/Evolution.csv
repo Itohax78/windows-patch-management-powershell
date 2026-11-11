@@ -1,0 +1,5 @@
+"Poste";"EtatPrecedent";"EtatActuel";"Evolution"
+"PC01";"CONFORME";"CONFORME";"Inchangé"
+"PC02";"NON CONFORME";"CONFORME";"Corrigé"
+"PC03";"CONFORME";"NON CONFORME";"Régression"
+"PC04";"INACCESSIBLE";"INACCESSIBLE";"Inchangé"

@@ -1,0 +1,5 @@
+"Poste";"AdresseIP";"Etat";"NbCorrectifs";"DateDernierCorrectif";"DernierKB"
+"PC01";"192.168.10.11";"Accessible";"3";"04/09/2026 00:00:00";"KB5054156"
+"PC02";"192.168.10.12";"Accessible";"2";"03/09/2026 00:00:00";"KB5048161"
+"PC03";"192.168.10.13";"Accessible";"2";"03/09/2026 00:00:00";"KB5054156"
+"PC04";"192.168.10.14";"Inaccessible";;;

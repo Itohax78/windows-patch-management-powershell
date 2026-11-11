@@ -1,0 +1,12 @@
+﻿@{
+    # Rôle JEA "PatchAuditor" : audit des correctifs en LECTURE SEULE.
+    # Le compte connecté ne voit que Get-PatchAuditData (+ les commandes minimales
+    # imposées par le type de session RestrictedRemoteServer : Get-Command,
+    # Get-Help, Exit-PSSession, Measure-Object, Out-Default, Select-Object...).
+    # Aucun cmdlet capable de modifier le système n'est exposé.
+    GUID              = 'e6a1c4b7-2d93-4f08-8b5e-91c2a7f0d3e4'
+    Author            = 'Pratheep Parthepan, Antoine Poirier'
+    Description       = 'Collecte en lecture seule des informations système et des correctifs installés.'
+    ModulesToImport   = 'PatchAuditJEA'
+    VisibleFunctions  = 'Get-PatchAuditData'
+}
